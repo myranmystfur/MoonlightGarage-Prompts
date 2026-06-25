@@ -12,7 +12,6 @@ Who's your cartoon character crush?
 What’s the worst holiday in your opinion?
 Do you think 70 degree Fahrenheit (21 degrees Celsius) is Hot, Warm, or Cold?
 What is a life lesson you had to learn the hard way?
-Truth that hurts or a lie that soothes?
 Live for today or plan for tomorrow?
 Fall in love fast or take your time?
 Big wedding or elope?
@@ -126,4 +125,75 @@ What do you value most in a friendship?
 What's your biggest relationship green flag?
 What's your biggest relationship red flag?
 What's your ideal first date?
+What's one piece of advice you'd give everyone here?
+Do you prefer sunrise or sunset?
+Have you ever met someone famous in VRChat?
+What's the most cursed thing you've seen in VRChat?
+What's your favorite public world?
+What's the funniest avatar you've ever seen?
+What's your favorite co-op game?
+What's your favorite multiplayer game?
+What's your favorite single-player game?
+What's your favorite game soundtrack?
+What's one game you wish you could experience again for the first time?
+What's your favorite indie game?
+What's the hardest game you've beaten?
+What's one thing you're looking forward to this year?
+What's your happiest memory?
+What's a memory that always makes you laugh?
+What's something you wish you had learned sooner?
+What's the best decision you've ever made?
+What's the worst decision you've ever made?
+What achievement are you most proud of?
+What's something you've always wanted to try?
+What's your biggest fear about the future?
+What gives you hope?
+Are you more patient or impatient?
+What's something you're stubborn about?
+What's your biggest strength?
+What's your biggest weakness?
+What instantly puts you in a good mood?
+What instantly ruins your mood?
+Are you more organized or spontaneous?
+Do you enjoy surprises?
+What makes someone a good friend?
+Have you ever reconnected with an old friend?
+Do you believe in 2nd chances?
+Would you rather have many friends or a few close friends?
+What's the funniest movie you've ever seen?
+What's the saddest movie you've ever seen?
+What's your favorite family tradition?
+What's something your parents taught you that you still live by?
+Do you have a favorite family story?
+What's something people often overlook in healthy relationships?
+Do you think communication or trust is more important?
+What's one romantic cliché you secretly like?
+What's one romantic cliché you dislike?
+What's one thing you think every relationship needs?
+How important is having shared hobbies?
+What's one game everyone should experience at least once?
+Which game has the best soundtrack?
+Which game has the best story?
+Do you prefer road trips or flying?
+What's one place you never want to visit again?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
