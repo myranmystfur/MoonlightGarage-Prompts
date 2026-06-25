@@ -18,8 +18,8 @@ Beans that are in Female avatars take a shot.
 Beans who have siblings take a shot.
 Beans who are the only child in their family take a shot.
 Beans that are wearing black take a shot (VRChat and/or IRL).
-Beans that are wearing white takes a shot (VRChat and/or IRL).
-Beans that are wearing blue takes a shot (VRChat and/or IRL).
+Beans that are wearing white take a shot (VRChat and/or IRL).
+Beans that are wearing blue take a shot (VRChat and/or IRL).
 Beans that wear glasses takes a shot (VRChat and/or IRL).
 Beans with tattoos take a shot (VRChat and/or IRL).
 Beans who are in VR take a shot.
@@ -105,7 +105,7 @@ Beans using a Vive take a shot.
 Beans who own a Bigscreen Beyond take a shot.
 Beans who built their own PC take a shot.
 Beans who have over 500 friends in VRChat take a shot.
-Beans who have over 1,00 friends in VRChat take a shot... and spin again.
+Beans who have over 1,000 friends in VRChat take a shot... and spin again.
 Beans that are Single take a shot :(.
 Beans that are Taken take a shot :(.
 Beans that are Poly take a shot :(.
@@ -166,7 +166,6 @@ Beans who have been blocked take a shot.
 Beans who have commissioned artwork take a shot.
 Beans who have been kicked from a world take a shot.
 Beans who have been vote-kicked take a shot.
-Beans who have been blocked take a shot.
 Beans that can dance take a shot.
 Beans who have fursuits take a shot.
 Beans who don't have a fursuit take a shot.
@@ -227,7 +226,7 @@ Beans who have cried during a movie take a shot.
 Beans who have cried during a video game take a shot.
 Beans who have cried because of a song take a shot.
 Beans who have met another bean here in real life take a shot.
-Beans who have driven to a furry connvetion take a shot.
+Beans who have driven to a furry convention take a shot.
 Beans who have been to Japan take a shot.
 Beans who have been to Europe take a shot.
 Beans who have been to Canada take a shot.
@@ -248,3 +247,4 @@ Beans who have more than three monitors... take a shot... and spin again.
 Beans who never gotten a driver's license take a shot.
 Beans who have been on a cruise take a shot.
 Beans who have over 1,000 songs liked on Spotify take a shot.
+Beans who have ever locked their keys in their car take a shot.
