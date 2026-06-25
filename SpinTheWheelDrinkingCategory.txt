@@ -1,7 +1,13 @@
 Take a shot.
 Take a shot and spin again.
-Gift a shot.
-Do one buddy shot.
+Spinner gifts a shot.
+Spinner gifts two beans with a shot.
+Spinner gifts three beans with a shot.
+Trade shots with another bean.
+Every bean trade shots with another bean.
+Read the next prompt lol.
+Everyone take a shot.
+Everyone except the spinner takes a shot.
 Oldest bean in the Game takes a shot.
 Youngest bean in the Game takes a shot.
 Every bean that has ever ERP'd takes a shot.
@@ -11,7 +17,7 @@ Beans that are in Male avatars take a shot.
 Beans that are in Female avatars take a shot.
 Beans who have siblings take a shot.
 Beans who are the only child in their family take a shot.
-Beans that are wearing black takes a shot (VRChat and/or IRL).
+Beans that are wearing black take a shot (VRChat and/or IRL).
 Beans that are wearing white takes a shot (VRChat and/or IRL).
 Beans that are wearing blue takes a shot (VRChat and/or IRL).
 Beans that wear glasses takes a shot (VRChat and/or IRL).
@@ -51,7 +57,7 @@ Beans who have over 4,000 hours in VRChat take a shot.
 Beans who have over 5,000 hours in VRChat take a shot... and spin again.
 Beans with half-body tracking take a shot.
 Beans with full-body tracking take a shot.
-Beans wil Eye tracking take a shot.
+Beans with Eye tracking take a shot.
 Beans with Mouth tracking take a shot.
 Beans with Full-face tracking take a shot.
 Beans with VR gloves take a shot.
@@ -79,10 +85,18 @@ Beans with cat avatars take a shot.
 Beans with canine avatars take a shot.
 Beans with bird avatars take a shot.
 Beans with aquatic avatars take a shot.
+Beans with bunny avatars take a shot
+Beans with deer avatars take a shot.
+Beans with Mommy avatars take a shot.
+Beans with Daddy avatars take a shot.
+Beans with raccoon avatars take a shot.
+Beans with opossum avatars take a shot.
+Beans with protogen avatars take a shot.
+Beans with avali avatars take a shot.
 Beans with more than one tail take a shot.
 Beans with giant ears take a shot.
-The tallest bean in the Game take a shot.
-The shortest bean in the Game take a shot.
+The tallest bean in the Game takes a shot.
+The shortest bean in the Game takes a shot.
 Beans using a Valve Index take a shot.
 Beans using a Steam Deck take a shot.
 Beans using a... phone... take a shot and spin again...
@@ -136,6 +150,86 @@ Beans who work retail take a shot.
 Beans who are self-employed take a shot.
 Beans who work Blue-collar take a shot.
 Beans who work White-collar take a shot.
+Beans who have a Discord server take a shot.
+Beans who are a Discord moderator take a shot.
+Beans who stream on Twitch take a shot.
+Beans who upload to YouTube take a shot.
+Beans who create TikToks take a shot.
+Beans who have broken a VR controller take a shot.
+Beans who have eaten while wearing their headset take a shot.
+Beans who have forgotten they were muted take a shot.
+Beans who have forgotten they weren't muted take a shot.
+Beans who can do Unity take a shot.
+Beans who can do Blender take a shot.
+Beans who can do Substance Painter take a shot.
+Beans who have been blocked take a shot.
+Beans who have commissioned artwork take a shot.
+Beans who have been kicked from a world take a shot.
+Beans who have been vote-kicked take a shot.
+Beans who have been blocked take a shot.
+Beans that can dance take a shot.
+Beans who have fursuits take a shot.
+Beans who don't have a fursuit take a shot.
+Beans wearing collars take a shot.
+Beans wearing chokers take a shot.
+Beans with digitigrade legs take a shot.
+Beans who play on PlayStation take a shot.
+Beans who play on Xbox take a shot.
+Beans who play on Nintendo Switch take a shot.
+Beans who have broken a keyboard or controller take a shot.
+Last bean to raise their paw takes a shot.
+The floor is lava! Last bean to not touch the floor takes a shot.
+Last bean that runs to the car takes a shot.
+Beans who are over 6'0" IRL take a shot.
+Beans who are under 5'5" IRL take a shot.
+Beans older than 25 take a shot.
+Beans older than 30 take a shot.
+Beans older than 40 take a shot.
+Beans ages 18-21... drink water.
+Beans who owns a Dakimakura take a shot.
+Beans who can cook take a shot.
+Beans who cannot cook take a shot.
+Beans who like pineapple on pizza take a shot.
+Beans who hate pineapple on pizza take a shot.
+Beans who like spicy food take a shot.
+Beans who hate spicy food take a shot.
+Beans who sleep with socks on take a shot.
+Beans who sleep with socks off take a shot.
+Beans who sleep with stuffed animals take a shot.
+Beans who have gone skydiving take a shot.
+Beans who have gone camping take a shot.
+Beans who have gone fishing take a shot.
+Beans who have gone hiking take a shot.
+Beans who have gone snowboarding take a shot.
+Beans who have broken a bone take a shot.
+Beans who have had stitches take a shot.
+Beans who have ridden in an ambulance take a shot.
+Beans who have called in sick to play games take a shot.
+Beans who have skipped class to play games take a shot.
+Beans who have skipped work to play games take a shot.
+Beans who have gone to a concert take a shot.
+Beans who can play an instrument take a shot.
+Beans who are left-handed take a shot.
+Beans who are right-handed take a shot.
+Beans who are ambidextrous... take a shot and spin again.
+Beans who have over 5 unread Discord DMs take a shot.
+Beans who have over 10 unread Discord DMs take a shot.
+Beans who have over 15 unread Discord DMs... take a shot... and spin again.
+Beans who have never played this game before take a shot.
+Beans who have DJ'd in VRChat take a shot.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
