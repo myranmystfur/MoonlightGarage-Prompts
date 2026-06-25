@@ -248,3 +248,253 @@ Beans who never gotten a driver's license take a shot.
 Beans who have been on a cruise take a shot.
 Beans who have over 1,000 songs liked on Spotify take a shot.
 Beans who have ever locked their keys in their car take a shot.
+What is on your bucket list?
+What is your favorite book?
+How do you want to be remembered?
+What’s the strangest text you’ve ever received?
+How much does your personality change when you’re around different people?
+What’s the sweetest thing someone has done for you?
+Do you believe in having one best friend?
+What do you think is the most annoying quality a person can have?
+Who do you think shouldn’t be a celebrity?
+Can you describe your first kiss?
+Who's your cartoon character crush?
+What’s the worst holiday in your opinion?
+Do you think 70 degree Fahrenheit (21 degrees Celsius) is Hot, Warm, or Cold?
+What is a life lesson you had to learn the hard way?
+Live for today or plan for tomorrow?
+Fall in love fast or take your time?
+Big wedding or elope?
+Do you believe in magic?
+What’s your love language?
+Have you ever been bullied? Or were you the bully?
+Out of all your family members, who are you closest to?
+What's the worst you've ever been physically hurt?
+What's the worst you've ever been emotionally hurt?
+If you could only have three things on your life bucket list, what would they be?
+If you choose to get married one day, what would your dream proposal scenario be?
+What’s the most loved you’ve ever felt?
+Have you ever experienced a “friendship breakup”? What did it teach you?
+Would you ever consider being in a long-distance relationship?
+How did your parents meet?
+Do you feel that you have a healthy relationship with social media?
+Do you still know and talk to your school teachers to this day?
+Do you believe in love at first sight?
+What has your hardest goodbye in life been so far?
+What’s something you’d consider unforgivable?
+Have you ever had your fortune told?
+Have you ever laughed so hard you almost passed out?
+Where do you want to travel the most?
+If you could only eat one thing for the rest of your life, what would it be?
+You just won $100,000 — what are you going to do with the money?
+If you had three wishes, what would you wish for?
+Do you believe in aliens?
+Do you believe in ghosts?
+Do you believe in any superstitions?
+If you were President, what's the first thing you would work to change in this country?
+If you had to live in another time period, what would you choose?
+What foreign language(s) would you want to master and why?
+What’s your survival plan during a zombie apocalypse?
+What was your first concert?
+If a song played every time you entered a room, what would it be?
+On vacation, are you the relax-by-the-pool type or a get-up-and-go adventurer?
+If you could only listen to one singer or band for the rest of your life, who would you choose?
+Do you love any particularly weird snack combinations?
+What’s your favorite table top game to play?
+Who’s the best movie villain?
+Who's the best movie hero?
+Who's the best movie anti-hero?
+Do you have any phobias?
+What are your top three biggest pet peeves?
+What's your favorite color and what's your least favorite color?
+Do you describe yourself as a competitive gaymer?
+Do you describe yourself as a casual gaymer?
+What’s a tough experience that you learned and grew from?
+What’s your relationship with your family like?
+Do you most often follow your heart or your head?
+What's your absolute dream job?
+If you could have a superpower, what would you choose?
+What is your definition of success?
+Are you a morning or night person?
+Are you a coffee person or tea person?
+What’s a bad habit you’re trying to break?
+Are you an introvert or extrovert? ...Or ambivert?
+Do you like to recharge alone or around other people?
+In one year, what do you want in your life that you don't have now?
+Can you describe your favorite birthday ever?
+Do you prefer sweet or savory foods?
+What are three quick things you're grateful for?
+If you were stuck in one city for the rest of your life, where would you want that to be?
+What was the scariest moment of your life?
+What's the best piece of advice you've ever gotten, and when has it come in handy?
+What's the first place you ever traveled to?
+When was the last time you cried and why?
+In your opinion, what makes a person strong?
+In your opinion, what makes a person beautiful?
+In your opinion, what makes a person spiteful?
+Do you think you're taking care of yourself enough?
+Can you list everything that you're looking for in a romantic partner?
+Does change scare you?
+What do you want the most out of in life?
+What food do you absolutely despise?
+Are you a realist, a pessimist, or an optimist?
+Are you pro- or anti-clapping after a flight lands? Defend your stance.
+Have you ever stolen anything?
+Would you rather travel back in time or into the future?
+What's your Myers-Briggs personality type?
+If you want kids, what is the biggest lesson you want them to learn from you?
+What book would you recommend to everyone?
+Do you have any pets?
+What is something you think is totally underrated?
+Do you play or want to learn any musical instruments?
+What do you like to listen to when you’re in the car?
+Are you allergic to anything?
+Do you like to go camping?
+What’s your favorite podcast?
+What toy did you never want to get rid of?
+What did you want to be when you grew up?
+What's your favorite subject in school?
+What's your least favorite subject in school?
+What's something you miss about being a kid?
+Truth that hurts or lie that soothes?
+Are you a stay-in person or go-out person?
+Do you speak any languages other than English?
+What was your first ever job?
+What are you struggling to let go of?
+Do you enjoy solo travel?
+In which area do you need rest? (Physical, mental, spiritual, etc.)
+If you had the chance to go to outer space, would you do it?
+Minimalist or maximalist?
+Saver or spender?
+Vacation or staycation?
+Silence or background noise?
+Cocktail or mocktail?
+Sweet, savory, or sour?
+Non-spicy, Mild, or Spicy?
+What do you value most in a friendship?
+What's your biggest relationship green flag?
+What's your biggest relationship red flag?
+What's your ideal first date?
+What's one piece of advice you'd give everyone here?
+Do you prefer sunrise or sunset?
+Have you ever met someone famous in VRChat?
+What's the most cursed thing you've seen in VRChat?
+What's your favorite public world?
+What's the funniest avatar you've ever seen?
+What's your favorite co-op game?
+What's your favorite multiplayer game?
+What's your favorite single-player game?
+What's your favorite game soundtrack?
+What's one game you wish you could experience again for the first time?
+What's your favorite indie game?
+What's the hardest game you've beaten?
+What's one thing you're looking forward to this year?
+What's your happiest memory?
+What's a memory that always makes you laugh?
+What's something you wish you had learned sooner?
+What's the best decision you've ever made?
+What's the worst decision you've ever made?
+What achievement are you most proud of?
+What's something you've always wanted to try?
+What's your biggest fear about the future?
+What gives you hope?
+Are you more patient or impatient?
+What's something you're stubborn about?
+What's your biggest strength?
+What's your biggest weakness?
+What instantly puts you in a good mood?
+What instantly ruins your mood?
+Are you more organized or spontaneous?
+Do you enjoy surprises?
+What makes someone a good friend?
+Have you ever reconnected with an old friend?
+Do you believe in 2nd chances?
+Would you rather have many friends or a few close friends?
+What's the funniest movie you've ever seen?
+What's the saddest movie you've ever seen?
+What's your favorite family tradition?
+What's something your parents taught you that you still live by?
+Do you have a favorite family story?
+What's something people often overlook in healthy relationships?
+Do you think communication or trust is more important?
+What's one romantic cliché you secretly like?
+What's one romantic cliché you dislike?
+What's one thing you think every relationship needs?
+How important is having shared hobbies?
+What's one game everyone should experience at least once?
+Which game has the best soundtrack?
+Which game has the best story?
+Do you prefer road trips or flying?
+What's one place you never want to visit again?
+What's an unpopular opinion you have that people may disagree with?
+What's a trend you hope disappears forever?
+What's something that's underrated?
+What's something that's overrated?
+What's something people take way too seriously?
+What's something you think people don't take seriously enough?
+What's something you've changed your mind about in the last five years?
+Would you become famous if it meant losing all privacy?
+Would you take immortality?
+Would you trade five years of your life for unlimited money?
+Would you move to another country permanently?
+What's one thing you wish schools actually taught?
+Does a hotdog count as a sandwich?
+Does cereal count as a soup?
+Is water wet?
+Toilet paper: over or under?
+Pineapple on pizza: yes or no?
+Is sleeping with socks on acceptable?
+Does ketchup belong in the fridge?
+What's the funniest thing you've seen someone do in a public world?
+What's the weirdest world you've ever visited?
+What's your biggest VRChat pet peeve?
+What's one thing VRChat newcomers should know?
+What's one thing VRChat veterans should stop doing?
+What's your biggest "VRChat has changed" opinion?
+What scares you more: failure or regret?
+What's something you've forgiven but never forgotten?
+What's something you wish people understood about mental health?
+Do you think happiness is a choice?
+What's something you've lost that changed you?
+What's your worst autocorrect fail?
+What's the dumbest injury you've ever had?
+What's your most expensive mistake?
+What's something you've Googled that sounds suspicious out of context?
+Is it ever okay to lie to protect someone's feelings?
+Would you rather always know the truth or always be happy?
+If you found a wallet with $10,000 inside, what would you do?
+Is revenge ever justified?
+Would you expose your best friend if they committed a crime?
+Is ignorance really bliss?
+Do the ends justify the means?
+Should people always be forgiven if they're genuinely sorry?
+What's the most embarrassing thing you've said to the wrong person?
+Have you ever waved back at someone who wasn't waving at you?
+Have you ever sent a message to the wrong person?
+Have you ever walked into the wrong room?
+What's your biggest facepalm moment?
+Do you trust people easily?
+What's the quickest way to lose your trust?
+What's something you judge people for?
+What's something people judge you for?
+Do first impressions matter?
+Do people ever surprise you?
+What's something you've completely misjudged?
+What's something that should be free but isn't?
+What's a job that deserves more respect?
+What's a job that's harder than people realize?
+What's something people spend too much money on?
+What's something worth spending extra money on?
+Can exes stay friends?
+Is it okay to keep secrets in a relationship?
+What's one thing people overthink in dating?
+What's one dating trend you dislike?
+Do you believe people can truly change?
+What makes someone emotionally mature?
+What's the saltiest you've ever been in a game?
+What's the saltiest moment you've ever caused to aonhter player in a game?
+What's something the internet has ruined?
+What's something the internet has made better?
+What's your most controversial food opinion?
+What's one thing you'd bet money you're better at than everyone else here?
+What's your biggest irrational purchase?
