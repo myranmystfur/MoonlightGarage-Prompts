@@ -11,7 +11,6 @@ Can you describe your first kiss?
 Who's your cartoon character crush?
 What’s the worst holiday in your opinion?
 Do you think 70 degree Fahrenheit (21 degrees Celsius) is Hot, Warm, or Cold?
-If you could only eat one food for the rest of your life, what would it be?
 What is a life lesson you had to learn the hard way?
 Truth that hurts or a lie that soothes?
 Live for today or plan for tomorrow?
@@ -67,33 +66,64 @@ Do you most often follow your heart or your head?
 What's your absolute dream job?
 If you could have a superpower, what would you choose?
 What is your definition of success?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Are you a morning or night person?
+Are you a coffee person or tea person?
+What’s a bad habit you’re trying to break?
+Are you an introvert or extrovert? ...Or ambivert?
+Do you like to recharge alone or around other people?
+In one year, what do you want in your life that you don't have now?
+Can you describe your favorite birthday ever?
+Do you prefer sweet or savory foods?
+What are three quick things you're grateful for?
+If you were stuck in one city for the rest of your life, where would you want that to be?
+What was the scariest moment of your life?
+What's the best piece of advice you've ever gotten, and when has it come in handy?
+What's the first place you ever traveled to?
+When was the last time you cried and why?
+In your opinion, what makes a person strong?
+In your opinion, what makes a person beautiful?
+In your opinion, what makes a person spiteful?
+Do you think you're taking care of yourself enough?
+Can you list everything that you're looking for in a romantic partner?
+Does change scare you?
+What do you want the most out of in life?
+What food do you absolutely despise?
+Are you a realist, a pessimist, or an optimist?
+Are you pro- or anti-clapping after a flight lands? Defend your stance.
+Have you ever stolen anything?
+Would you rather travel back in time or into the future?
+What's your Myers-Briggs personality type?
+If you want kids, what is the biggest lesson you want them to learn from you?
+What book would you recommend to everyone?
+Do you have any pets?
+What is something you think is totally underrated?
+Do you play or want to learn any musical instruments?
+What do you like to listen to when you’re in the car?
+Are you allergic to anything?
+Do you like to go camping?
+What’s your favorite podcast?
+What toy did you never want to get rid of?
+What did you want to be when you grew up?
+What's your favorite subject in school?
+What's your least favorite subject in school?
+What's something you miss about being a kid?
+Truth that hurts or lie that soothes?
+Are you a stay-in person or go-out person?
+Do you speak any languages other than English?
+What was your first ever job?
+What are you struggling to let go of?
+Do you enjoy solo travel?
+In which area do you need rest? (Physical, mental, spiritual, etc.)
+If you had the chance to go to outer space, would you do it?
+Minimalist or maximalist?
+Saver or spender?
+Vacation or staycation?
+Silence or background noise?
+Cocktail or mocktail?
+Sweet, savory, or sour?
+Non-spicy, Mild, or Spicy?
+What do you value most in a friendship?
+What's your biggest relationship green flag?
+What's your biggest relationship red flag?
+What's your ideal first date?
 
